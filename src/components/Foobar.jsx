@@ -2,7 +2,7 @@ import React from "react";
 
 const Foobar = () => {
 	return (
-		<div id="foobar">Made with 💙 Liquid | {new Date().getFullYear()}</div>
+		<div id="foobar">Made with 💙 Vxrcel | {new Date().getFullYear()}</div>
 	);
 };
 
